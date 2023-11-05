@@ -1,6 +1,6 @@
 ##### Hi, I'm Youssef Ahmed Zakaria:
 
-- 🎓 Computer science sophomore at Faculty of computers and artificial intelligence - Cairo University
+- 🎓 Computer science junior student at Faculty of computers and artificial intelligence - Cairo University
 - 📫 You can reach me with the links below
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-ahmed-649210221/)
