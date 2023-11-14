@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Flutter](https://img.shields.io/badge/-flutter-222222?style=flat&logo=flutter&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django&logoColor=092e20)
+![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=Django&logoColor=092e20)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefahmedzakaria&theme=dark&show_icons=true)
