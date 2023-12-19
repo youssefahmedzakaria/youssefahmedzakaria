@@ -7,6 +7,8 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefahmed052@gmail.com)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/youssefz7)
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ##### Languages I use
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -29,7 +31,6 @@
 
 
 
-  <img src="https://streak-stats.demolab.com?user=youssefahmedzakaria&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 
 
